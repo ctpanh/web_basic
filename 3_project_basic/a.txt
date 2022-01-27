@@ -1,0 +1,10 @@
+Our planetary system is located in an outer spiral arm of the Milky Way galaxy.
+The planets, in order of their distance outward from the Sun, are:
+Mercury
+Venus
+Earth
+Mars
+Jupiter
+Saturn
+Uranus
+Neptune
